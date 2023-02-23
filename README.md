@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I am a computer engineering student at Bilkent University.
 
 <!--
 **ilmay-tas/ilmay-tas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
